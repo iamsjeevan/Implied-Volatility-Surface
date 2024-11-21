@@ -23,3 +23,16 @@ cd Implied-Volatility-Surface
 ```
 ### 2. Set up a Virtual Environment
 It's recommended to create a virtual environment to manage dependencies. You can do this by running the following:
+On macOS/Linux:
+```bash
+python3 -m venv venv
+source venv/bin/activate
+
+```
+On Windows:
+```bash
+python -m venv venv
+.\venv\Scripts\activate
+```
+### 3. Install the Required Dependencies
+
